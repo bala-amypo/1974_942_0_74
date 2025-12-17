@@ -6,5 +6,7 @@ import com.example.demo.service.Stuservice;
 
 @service
 public class Stuserviceimpl implements Stuservice{
+
+    private final StudentRepository stu
     
 }

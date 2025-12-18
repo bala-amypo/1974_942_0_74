@@ -1,5 +1,3 @@
-//serviceImpl>StudentServiceImplement.java
-
 package com.example.PracticeProject.serviceImpl;
 
 import org.springframework.beans.factory.annotation.Autowired;
